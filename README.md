@@ -1,1 +1,1 @@
-# gd-snowmangameexample
+A small introduction to Game Design and Programming Module. A project made in Game Maker Studio, in which player has to shoot the ball by aiming with mouse, and holding the spacebar button to shoot and releasing it to shoot a projectile. The goal is to defeat enemy's snowman character before the enemy manages to deplete player's whole health.
